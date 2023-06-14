@@ -35,29 +35,28 @@ timezone: Asia/Shanghai
 ##############################
 author:
   type      : organization # "person" (default), "organization"
-  name      : TeXt
+  name      : ALT Group
   url       :
   avatar    : /assets/apple-touch-icon.png
   bio: >
-    TeXt is a super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc.
-    Similar to iOS 11 style, it has large and prominent titles, round buttons and cards.
-  email     : kitian616@outlook.com
+    The ALT Group description
+  email     : 
   facebook  :
-  twitter   : kitian616
-  weibo     : 234695683
-  googleplus: 101827554735084402671
+  twitter   : 
+  weibo     : 
+  googleplus: 
   telegram  :
   medium    :
   zhihu     :
   douban    :
   linkedin  :
-  github    : kitian616/jekyll-TeXt-theme
+  github    : 
   npm       :
 
 
 ## => GitHub Repository (if the site is hosted by GitHub)
 ##############################
-repository: kitian616/jekyll-TeXt-theme
+repository: alt-group/alt-group.github.io
 repository_tree: master
 
 
@@ -65,7 +64,7 @@ repository_tree: master
 ##############################
 paths:
   root    : # title link url, "/" (default)
-  home    : /test/ # home layout url, "/" (default)
+  home    : / # home layout url, "/" (default)
   archive : # "/archive.html" (default)
   rss     : # "/feed.xml" (default)
 
@@ -220,7 +219,7 @@ collections:
 defaults:
   ## home
   - scope:
-      path: "test"
+      path: home
     values:
       articles:
         excerpt_type: html

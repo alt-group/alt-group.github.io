@@ -1,7 +1,7 @@
 ---
 title: "Joseph"
 date: 2018-12-20T13:44:30+10:00
-image: "images/team/joseph-gonzalez-399972-unsplash.jpg"
+image: "images/team/joseph.jpeg"
 jobtitle: "Programmer"
 promoted: true
 weight: 5

@@ -1,7 +1,7 @@
 ---
 title: "Luke"
 date: 2018-11-19T10:47:58+10:00
-image: "images/team/nonsap-visuals-kMJp7620W6U-unsplash.jpg"
+image: "images/team/luke.jpeg"
 jobtitle: "Company Director"
 linkedinurl: "https://uk.linkedin.com/in/luketrevorrow"
 promoted: true

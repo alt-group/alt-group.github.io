@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Forward Thinking",
+    "description": "Always developing with modern industry in mind",
+    "image": {
+      "url": "images/features/noun_branding_1885335.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "People you can trust",
+    "description": "Our team have strong backgrounds in enterprise and artificial intelligence",
+    "image": {
+      "url": "images/features/noun_The Process_1885341.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Tax Compliance",
+    "description": "We stay up to date on the latest changes to the tax code.",
+    "image": {
+      "url": "images/features/noun_3d modeling_1885342.svg",
+      "width": 80,
+      "height": 80
+    }
+  }
+]

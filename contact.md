@@ -9,4 +9,4 @@ call-box-top: false
 ---
 # Contact Us
 
-We are available via email via the following: placeholder@placeholderaddres.com
+We are available via email via the following: [contact@altgroup.com](mailto:contact@altgroup.com)

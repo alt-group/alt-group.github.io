@@ -1,8 +1,8 @@
 ---
 title: "Jamie"
 date: 2018-12-20T13:44:30+10:00
-image: "images/team/joseph-gonzalez-399972-unsplash.jpg"
-jobtitle: "Admin and Adminsistration"
+image: "images/team/jamie.png"
+jobtitle: "Admin and Administration"
 weight: 5
 promoted: true
 ---
